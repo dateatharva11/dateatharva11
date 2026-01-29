@@ -8,4 +8,5 @@ I'm Atharva, a software engineer passionate about full-stack development and AI-
 - 🔭 Currently Working On: Building scalable web applications and extensions with modern frameworks and exploring LLM integration
 - 💡 Always Learning: Keeping up with the latest in big data technologies and AI-driven applications
 - 🎯 Goal: Bridging the gap between complex data systems and intuitive user experiences through thoughtful engineering
+- 🌱 Daily Development: Committed to continuous learning and improvement through daily coding and contributions
 
