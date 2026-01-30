@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Atharva, a software engineer passionate about full-stack development and AI-driven solutions.
 
