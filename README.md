@@ -4,7 +4,7 @@ I'm Atharva, a software engineer passionate about full-stack development and AI-
 
 - 📫 Email: Reach me at **dateatharva@gmail.com**
 - 🌐 Portfolio: Check out my work and projects at **https://atharvadate.netlify.app/**
-- ⚡ Fun fact: 🤖 I talk to AI more than humans, it gives better feedback
+- ⚡ Fun fact: 🤖 I talk to AI more than humans, it gives better and honest feedback
 - 🔭 Currently Working On: Building scalable web applications with modern frameworks and exploring LLM integration
 - 💡 Always Learning: Keeping up with the latest in trending technologies and AI-driven applications
 - 🎯 Goal: Bridging the gap between complex data systems and intuitive user experiences through thoughtful engineering
