@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Atharva, a software engineer passionate about full-stack development and AI-driven solutions.
+I am Atharva, a software engineer passionate about full-stack development and AI-driven solutions.
 
 - 📫 Email: Reach me at **dateatharva@gmail.com**
 - 🌐 Portfolio: Check out my work and projects at **https://atharvadate.netlify.app/**
