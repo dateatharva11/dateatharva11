@@ -9,3 +9,5 @@ I am Atharva, a software engineer passionate about full-stack development and AI
 - 💡 Always Learning: Keeping up with the latest in trending technologies and AI-driven applications
 - 🎯 Goal: Bridging the gap between complex data systems and intuitive user experiences through thoughtful engineering
 - 🌱 Daily Development: Committed to continuous learning and improvement through daily coding and contributions
+- 📝 AI Contract management solution: **https://www.innoactivegroup.com/ai-contract-management-tool**
+- 📊 Schedule Analyzer Tool solution: **https://scheduleintel.netlify.app/**
