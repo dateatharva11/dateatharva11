@@ -4,10 +4,10 @@ I am Atharva, a software engineer passionate about full-stack development and AI
 
 - 📫 Email: Reach me at **dateatharva@gmail.com**
 - 🌐 Portfolio: Check out my work and projects at **https://atharvadate.netlify.app/**
-- ⚡ Fun fact: 🤖 I talk to AI more than humans, it gives better and honest feedback
+- ⚡ Fun fact: 🤖 I talk to AI more than humans; it gives better and honest feedback
 - 🔭 Currently Working On: Building scalable web applications with modern frameworks and exploring LLM integrations for integrating AI and automating construction use cases
 - 💡 Always Learning: Keeping up with the latest in trending technologies and AI-driven applications
 - 🎯 Goal: Bridging the gap between complex data systems and intuitive user experiences through thoughtful engineering
-- 🌱 Daily Development: Committed to continuous learning and improvement through leetcode, daily coding and contributions
+- 🌱 Daily Development: Committed to continuous learning and improvement through LeetCode, daily coding, and contributions
 - 📝 AI Contract management solution: **https://www.innoactivegroup.com/ai-contract-management-tool**
 - 📊 Schedule Analyzer Tool solution: **https://scheduleintel.netlify.app/**
