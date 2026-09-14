@@ -11,3 +11,4 @@ I am Atharva, a software engineer passionate about full-stack development and AI
 - 🌱 Daily Development: Committed to continuous learning and improvement through LeetCode, daily coding, and contributions
 - 📝 AI Contract management solution: **https://www.innoactivegroup.com/ai-contract-management-tool**
 - 📊 Schedule Analyzer Tool solution: **https://www.chronosiq.ai/**
+- 🚀 Latest Project: Currently building **ChronosIQ** — an AI-powered scheduling analyzer that optimizes timelines and resource allocation for construction projects.
